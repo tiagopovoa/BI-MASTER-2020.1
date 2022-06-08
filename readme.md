@@ -47,7 +47,7 @@ Restrições:
 
 No segundo momento, fizemos o Re-teste entre o período de 01 a 15 dias de out/21.
 
-Finalmente, comparamos o resultado financeiro da carteira entre jan/15 a dez/21 com o IFIX. Tamb m analisamos as correlações do IFX x Indicadores de Mercado ( % Selic, NTN-B e Efeito Eleições).
+Finalmente, comparamos o resultado financeiro da carteira entre jan/15 a dez/21 com o IFIX. Também analisamos as correlações do IFIX x Indicadores de Mercado ( % Selic, NTN-B e Efeito Eleições).
 
 
 ## 3. RESULTADOS
@@ -61,12 +61,12 @@ Finalmente, comparamos o resultado financeiro da carteira entre jan/15 a dez/21 
                      - Segmentos em destaque:  CRI, Malls, Renda Urbana; 
 			   - Sem Aloca  o em Fundo de Agencias.
  
-[No 2o]  Re-teste entre o per odo de 01 a 15 dias de out/21
+[No 2o]  Re-teste entre o período de 01 a 15 dias de out/21
        
         > Nossa carteira: - 0,63% c/ vol 8,81%
         > IFIX            - 1,08% c/ vol 10,34%
 
-        Destaques    - Apresentando uma vol menor que o IFX porém com um rentabilidade menor.
+        Destaques    - Apresentando uma vol menor que o IFIX porém com um rentabilidade menor.
                      - Segmentos em destaque:  CRI, FOF, Malls, Logistica 
 			   - Sem Alocação em Fundo de Agencias.
 
@@ -82,11 +82,11 @@ Finalmente, comparamos o resultado financeiro da carteira entre jan/15 a dez/21 
 O Modelo de Otimizacao com a ferramenta Solver LP Simplex se mostrou bem eficiente para alocação de recursos em FII e demostrando uma melhor rentabilidae que o IFIX ao longos dos ultimos 6 anos (2014-21).
 
 
-
+---
 
 Matricula: Tiago Ramos Povoa - 201.190.203
 Matricula: Frederico Cunha   - 201.190.258
 
 
-Pontificia Universidade Católica do Rio de Janeiro
+Pontifícia Universidade Católica do Rio de Janeiro
 Curso de Pós Graduação Business Intelligence Master
