@@ -1,6 +1,6 @@
 # ALOCAÇÃO DE INVESTIMENTOS EM FIIs (FUNDO DE INVESTIMENTO IMOBILIARIO) #
 
-Aluno: TIAGO RAMOS POVOA (https://gist.github.com/tiagopovoa) E FREDERICO MARANH O CUNHA (https://gist.github.com/fremcunha)
+Alunos: [TIAGO RAMOS POVOA](https://github.com/tiagopovoa) E [Frederico Maranh O Cunha](https://gist.github.com/fremcunha)
 Orientador: [Felipe Borges](https://github.com/FelipeBorgesC) 
 
 
@@ -83,8 +83,8 @@ O Modelo de Otimizacao com a ferramenta Solver LP Simplex se mostrou bem eficien
 
 
 
-Matricula Tiago Ramos P voa: 2011 90 203
-Matricula Frederico Cunha:   201.190.258
+Matricula: Tiago Ramos Povoa - 201.190.203
+Matricula: Frederico Cunha   - 201.190.258
 
 
 Pontificia Universidade Cat lica do Rio de Janeiro
