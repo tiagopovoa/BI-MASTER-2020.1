@@ -1,6 +1,7 @@
 # ALOCAÇÃO DE INVESTIMENTOS EM FIIs (FUNDO DE INVESTIMENTO IMOBILIARIO) #
 
-Alunos: [TIAGO RAMOS POVOA](https://github.com/tiagopovoa) E [Frederico Maranh O Cunha](https://gist.github.com/fremcunha)
+Alunos: [Tiago Ramos Povoa](https://github.com/tiagopovoa) e [Frederico Maranh O Cunha](https://gist.github.com/fremcunha)
+
 Orientador: [Felipe Borges](https://github.com/FelipeBorgesC) 
 
 
